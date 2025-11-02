@@ -1,0 +1,28 @@
+# Byte-compiled / cache / logs
+__pycache__/
+*.py[cod]
+*.log
+
+# R-related
+.Rhistory
+.RData
+.Rproj.user/
+
+# Mac-specific
+.DS_Store
+
+# ImageJ temporary and backup files
+*.bak
+*.tmp
+*.roi
+
+# VS Code settings
+.vscode/
+
+# System
+Thumbs.db
+
+# Results and raw data (recommend keeping out of repo)
+data/raw/
+data/processed/
+results/
