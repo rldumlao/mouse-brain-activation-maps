@@ -1,9 +1,0 @@
-__pycache__/
-.Rhistory
-.Rproj.user/
-*.log
-*.roi
-.DS_Store
-data/raw/
-data/processed/
-results/
