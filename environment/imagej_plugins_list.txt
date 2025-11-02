@@ -1,0 +1,27 @@
+# Required Fiji/ImageJ Plugins for Mouse Brain Activation Mapping
+
+## Standard Fiji Bundled Plugins (should be pre-installed)
+- Bio-Formats
+- 3D Viewer
+- ROI Manager
+- Thresholding
+- Particle Analyzer
+- Gaussian Blur
+- StackReg
+
+## Optional but Highly Recommended
+- TrakEM2               # 3D brain reconstruction, alignment
+- BigDataViewer         # For large brain slices / volumetric data
+- TurboReg              # Precise image registration (required by some macros)
+- CLIJ2                 # GPU-accelerated processing (optional)
+- MorphoLibJ            # Advanced morphological operations
+- BoneJ                # 3D structure analysis (optional, if you're doing 3D quant)
+
+## For Allen Brain Atlas Registration (Optional/Advanced)
+- Elastix (via Fiji-Elastix)
+- ANTs plugin (if integrating with ANTsR)
+
+## Utility Plugins
+- Extended Particle Analyzer
+- Image Calculator Plus
+
